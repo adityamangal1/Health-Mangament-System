@@ -1,5 +1,8 @@
 # Health-Managment-System
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+</p> 
+<p align="center"><img src="https://img.shields.io/badge/Author-adityamangal-green.svg"> 
+</p>
 
 * This is a health management system where u can lock your diets and exercises anytime. whenever you take your diet or did some exercises, you can lock it in separate files with the timestamps, and also it is easier to retrieve the data from the files anytime. 
 
